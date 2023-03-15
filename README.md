@@ -3,7 +3,7 @@ A quick console program I built in about 45 minutes that allows you to create a 
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
